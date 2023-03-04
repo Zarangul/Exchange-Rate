@@ -1,3 +1,3 @@
 # Exchange-Rate
 
-@https://exchange-rate-zb.netlify.app/
+https://exchange-rate-zb.netlify.app/
